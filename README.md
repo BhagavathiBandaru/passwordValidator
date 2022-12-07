@@ -1,4 +1,5 @@
 In this project, let's build a **Password Validator** by applying the concepts we have learned till now.
+output:-Published Successfully!. Check at https://bandaruValidChk.ccbp.tech
 
 ### Refer to the image below:
 
